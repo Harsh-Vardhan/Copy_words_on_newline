@@ -1,0 +1,6 @@
+/* Author:	Harsh Vardhan
+ * Date:	Sep 22, 2012
+ */
+
+This program copies words from 'src.txt' to a new file 'tgt.txt' writing each
+word on a new line. 
